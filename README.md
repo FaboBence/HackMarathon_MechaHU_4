@@ -1,1 +1,1 @@
-# -HackMarathon_MechaHU_4
+# HackMarathon_MechaHU_4
