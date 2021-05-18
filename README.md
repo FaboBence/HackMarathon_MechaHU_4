@@ -22,6 +22,9 @@ The presenting style of the lecturer includes:
 - not going too much into foggy details, yet providing enough information while staying possible to follow
 - colorful, eye-catching presentation with many pictures, videos, and necessary amount of text
 
+![image](https://user-images.githubusercontent.com/65888378/118681485-e7e4b100-b7ff-11eb-9a08-8befe9726e96.png)
+
+
 Quality content means:
 - providing enough information about the topic
 - up-to-date, real-life based information
