@@ -50,7 +50,16 @@ On the webpage, at each topic folder, these materials  would be available for th
 - in-class project ideas, homework ideas
 - further 
 
-If lecturers are preparing for their lectures, they could see all the materials, feedbacks and experiences of previous lectures well organized on a webpage. This way, they could learn from each others experiences and the best ideas would be reused, resulting in improved and more constant overall quality. Instead of "reinventing the wheel" each time, this way, lecturers could focus on the further development of the topic, instead of having to create presenations from scratch each time.
+If lecturers are preparing for their lectures, they could see all the materials, feedbacks and experiences of previous lectures well organized on a webpage. 
+
+This solution could have many positive effects, such as:
+- good ideas/materials/presentations get preserved and are reused
+- lecturers don't have to start preparing for the lectures from scratch
+- if lecturers use roughly the same materials/projects, quality can be guaranteed and kept at a constantly high level
+- student feedbacks and lecturer experiences are well used and easy to handle
+- 
+To sum it up, such a webpage for the lecturers would guarantee qualitiy content, even if lectures are hold by different people.
+Furthermore, the informations said during the lectures would be rougly the same in all schools, so the whole project could be homogenized, while making progress and personal creativeness possible.
 
 # Lecturer mentors
 Beside these ideas, we would also advice Hack Slovakia to employ some mentors, who could pay atention to lecturers (especially for the new ones). Mentors could help lecturers to apply the presentation guidelines, give ideas, tricks and tips to make presentaions better, and they could monitor the lectures to see whether the quality is staying high enough, or whether it's improving or decreasing. They could help the lecturers to find they strengths and weeknesses, and based on them they could give advices, how to improve the quality of the presentation.
