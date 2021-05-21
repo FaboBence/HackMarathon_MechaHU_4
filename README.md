@@ -1,4 +1,4 @@
-# HackMarathon_MechaHU_4
+# HackMarathon_MechaHU_4 UPJŠ Challenge
 ### Team members
 
 - Bence Fabó, Budapest University of Technology and Economics
@@ -15,7 +15,8 @@ Schools who apply for lectures are going to expect at least as good lectures as 
 ![image](https://user-images.githubusercontent.com/65888378/119184056-2df67a80-ba75-11eb-8807-2855e85f7af0.png)
 
 We made a video explaining our proposed solution, which you can watch here:
-\*\*link\*\*
+
+https://youtu.be/F1OTQkxsGII
 
 # The quality of the lecture mainly depends on two factors: the presenting style of the lecturer, and quality content.
 
