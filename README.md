@@ -48,7 +48,7 @@ On the webpage, at each topic folder, these materials  would be available for th
 - best videos, images, and further materials which illustrate the topic
 - the experiences of the lecturers who teach the certain topics
 - in-class project ideas, homework ideas
-- further 
+
 
 If lecturers are preparing for their lectures, they could see all the materials, feedbacks and experiences of previous lectures well organized on a webpage. 
 
@@ -57,7 +57,7 @@ This solution could have many positive effects, such as:
 - lecturers don't have to start preparing for the lectures from scratch
 - if lecturers use roughly the same materials/projects, quality can be guaranteed and kept at a constantly high level
 - student feedbacks and lecturer experiences are well used and easy to handle
-- 
+
 To sum it up, such a webpage for the lecturers would guarantee qualitiy content, even if lectures are hold by different people.
 Furthermore, the informations said during the lectures would be rougly the same in all schools, so the whole project could be homogenized, while making progress and personal creativeness possible.
 
