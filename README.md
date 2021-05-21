@@ -40,7 +40,17 @@ Furthermore, Hack Kosice could provide presentation templates for each topic. Th
 
 # Quality content
 As for the quality of the content, we came up with the idea to create a webpage for the lecturers where they can share their experiences, class materials and feedback from students.
-Every topic could have a distinct part on the webpage where lecturers can upload their presentations, they can share their experiences and ideas how the certain topic could be taught better and everyone could see the feedback of the students about the certain topics. The best student projects, in-class experiences and tasks and picture/video materials would also be available for the lecturers. Once a lecturer is preparing for a presentation, they could see all the materials, feedbacks and experiences of previous lectures on the same topic. This idea could help to learn from each others experiences and to reuse the best ideas, resulting in improvind and more constant overall quality.
+Every topic could have a distinct part on the webpage where lecturers can upload their presentations, they can share their experiences and ideas how the certain topic could be taught better and everyone could see the feedback of the students about the certain topics. The best student projects, in-class experiences and tasks and picture/video materials would also be available for the lecturers. 
+
+On the webpage, at each topic folder, these materials  would be available for the lecturers:
+- student feedbacks about the previous lectures
+- presentations of previous lectures
+- best videos, images, and further materials which illustrate the topic
+- the experiences of the lecturers who teach the certain topics
+- in-class project ideas, homework ideas
+- further 
+
+If lecturers are preparing for their lectures, they could see all the materials, feedbacks and experiences of previous lectures well organized on a webpage. This way, they could learn from each others experiences and the best ideas would be reused, resulting in improved and more constant overall quality. Instead of "reinventing the wheel" each time, this way, lecturers could focus on the further development of the topic, instead of having to create presenations from scratch each time.
 
 # Lecturer mentors
 Beside these ideas, we would also advice Hack Slovakia to employ some mentors who could help the lecturers to prepare themselves for the lectures. Mentors could help lecturers to apply the presentation guidelines, give ideas, tricks and tips to make presentaions better, and they could monitor the lectures to see whether the quality is staying high enough, or whether it's improving or decreasing. 
